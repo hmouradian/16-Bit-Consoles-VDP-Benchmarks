@@ -4,7 +4,7 @@
 
 ### Summary
 
-The source code in this repository was used to perform a VDP benchmark comparison for the NEC TurboGrafx-16, Sega Genesis, and Super Nintendo. A video of this comparison is available on: https://www.youtube.com/
+The source code in this repository was used to perform a VDP benchmark comparison for the NEC TurboGrafx-16, Sega Genesis, and Super Nintendo. A video of this comparison is available on: https://www.youtube.com/watch?v=r7Jh_izIc8Q
 
 ### List of Files
 
